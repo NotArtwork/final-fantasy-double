@@ -6,4 +6,4 @@
     - The top bottom left and right value are from 1 to 10.
 - When a card is played. It will look at all of the adjacent spaces and evalute whether or not it's values are greater than or less than the cards occupying those spaces.
     - If tHe values are greater than, those cards that it beats will be captured.
-    - Every captured card increases the score by 1 point for the player
+    - Every captured card increases the score by 1 point for the playergi
